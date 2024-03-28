@@ -1,5 +1,13 @@
 ## Data Analysis Dashboard 
-- ### PROJECT 1 "Creation for VRINDA Store Online Delivery"
+- ### PROJECT 1 US Government Revenue Collection Over the Past 3 Fiscal Years(2021-2023)"
+- This project focuses on the creation of a comprehensive data analysis dashboard using Excel,centered around the U.S. Government Revenue Collections Data. 
+- The dataset comprises extensive details regarding Revenue Collection.
+  ##### Key Features:
+- Used Power Query to load # year Fiscal Data, COmbined the separate data into a single datafile, Performed basic cleaning of data.
+- Extensively used pivot charts to make a conclusion on data(Tax category, Channel type, Electronic category) 
+- Interactive Charts and Graphs: Utilizing Excel's advanced charting capabilities to create visually appealing representations of the data.
+- Dynamic Filters: Incorporating dynamic filters and timeline to allow users to drill down into specific segments of interest and extract actionable insights.
+- ### PROJECT 2 "Creation for VRINDA Store Online Delivery"
 - This project focuses on the creation of a comprehensive data analysis dashboard using Excel,centered around the VRINDA Store dataset. 
 - The dataset comprises extensive details regarding online deliveries facilitated through various platforms, including Amazon, Flipkart, Myntra, among others.
   ##### Key Features:
@@ -7,7 +15,7 @@
 - Dynamic Filters: Incorporating dynamic filters to allow users to drill down into specific segments of interest and extract actionable insights.
 
 
-- ### PROJECT 2 "Creation for Coffee order data"
+- ### PROJECT 3 "Creation for Coffee order data"
 - The dashboard integrates three key tables: orders, customers, and products, enabling comprehensive insights into sales, customer behavior, and product performance.
   ##### Key Features:
 
