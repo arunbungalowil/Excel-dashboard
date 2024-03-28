@@ -3,7 +3,7 @@
 - This project focuses on the creation of a comprehensive data analysis dashboard using Excel,centered around the U.S. Government Revenue Collections Data. 
 - The dataset comprises extensive details regarding Revenue Collection.
   ##### Key Features:
-- Used Power Query to load # year Fiscal Data, COmbined the separate data into a single datafile, Performed basic cleaning of data.
+- Used Power Query to load 3 years Fiscal Data, Combined the separate data into a single datafile, Performed basic cleaning of data.
 - Extensively used pivot charts to make a conclusion on data(Tax category, Channel type, Electronic category) 
 - Interactive Charts and Graphs: Utilizing Excel's advanced charting capabilities to create visually appealing representations of the data.
 - Dynamic Filters: Incorporating dynamic filters and timeline to allow users to drill down into specific segments of interest and extract actionable insights.
